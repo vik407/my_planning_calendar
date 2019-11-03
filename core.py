@@ -10,6 +10,7 @@ with open('batch_planning_data.json') as json_file:
 	if(data):
 		f = open("holberton.ical", "w+")
 		f.write('BEGIN:VCALENDAR\n')
+		f.write('PRODID:-//Google Inc//Google Calendar 70.9054//EN\n')
 		f.write('VERSION:2.0\n')
 		f.write('CALSCALE:GREGORIAN\n')
 		for p in data['data']:
@@ -26,7 +27,7 @@ with open('batch_planning_data.json') as json_file:
 				f.write('UID:' +str(theuid) +'@google.com\n')
 				f.write('ID: ' +p['id'] +'\n')
 				if 'project_url' in p:
-					f.write('DESCRIPTION: Project id ' + p['id'] +' Name ' +p['text'] +' Url ' +("https://intranet.hbtn.io" + p['project_url']) +'\n')
+					f.write('DESCRIPTION: Project id ' + p['id'] +' Name ' +p['text'] +'\nUrl ' +("https://intranet.hbtn.io" + p['project_url']) +'\n')
 				else:
 					f.write('DESCRIPTION: Project id ' + p['id'] +' Name ' +p['text'] +'\n')
 				f.write('LAST-MODIFIED:' +datetime.strftime(today, "%Y%m%dT%H%M00Z") +'\n')
