@@ -12,13 +12,18 @@ with open('batch_planning_data.json') as json_file:
 		for p in data['data']:
 			if 'start_date' in p:
 				datetime_s_str = datetime.strptime(p['start_date'], "%d-%m-%Y")
-				datetime_e_str = datetime.strptime(p['start_date'], "%d-%m-%Y")
+				if 'end_date' in p:
+					datetime_e_str = datetime.strptime(p['end_date'], "%d-%m-%Y")
 				print('BEGIN:VEVENT')
 				print('DTSTART:' +datetime.strftime(datetime_s_str, "%Y%m%d") + "T000000Z")
-				print('DTEND:' +datetime.strftime(datetime_e_str, "%Y%m%d") + "T235959Z")
+				if 'end_date' in p:
+					print('DTEND:' +datetime.strftime(datetime_e_str, "%Y%m%d") + "T235959Z")
 				print('UID:a4du9v2lvgueruc8mjoepkvjbc@google.com')
 				print('ID: ' +p['id'])
-				print('DESCRIPTION: Project id ' + p['id'] +'- Name ' +p['text'] +'- Url ' +("https://intranet.hbtn.io" + p['project_url']))
+				if 'project_url' in p:
+					print('DESCRIPTION: Project id ' + p['id'] +'- Name ' +p['text'] +'- Url ' +("https://intranet.hbtn.io" + p['project_url']))
+				else:
+					print('DESCRIPTION: Project id ' + p['id'] +'- Name ' +p['text'])
 				print('LAST-MODIFIED:20070207T065138Z')
 				print('LOCATION: https://intranet.hbtn.io')
 				print('SEQUENCE:0')
