@@ -48,7 +48,7 @@ with open('batch_planning_data.json') as json_file:
 				f.write('LOCATION: Cali CLO\n')
 				f.write('SEQUENCE:0\n')
 				f.write('STATUS:CONFIRMED\n')
-				f.write('SUMMARY: ' +p['text'] +'\n')
+				f.write('SUMMARY: ' +p['text'] +' : ' +p['id'] +'\n')
 				f.write('CATEGORIES:http://schemas.google.com/g/2005#event\n')
 				f.write('END:VEVENT\n')
 		f.write('END:VCALENDAR\n')
