@@ -35,6 +35,8 @@ with open('batch_planning_data.json') as json_file:
 				f.write('DTSTART:' +datetime.strftime(datetime_s_str, "%Y%m%d") + "T000000Z\n")
 				if 'end_date' in p:
 					f.write('DTEND:' +datetime.strftime(datetime_e_str, "%Y%m%d") + "T235959Z\n")
+				else:
+					f.write('DTEND:' +datetime.strftime(datetime_s_str, "%Y%m%d") + "T235959Z\n")
 				f.write('DTSTAMP:' +datetime.strftime(today, "%Y%m%dT%H%M00Z") +'\n')
 				f.write('UID:' +str(theuid) +'@google.com\n')
 				f.write('ID: ' +p['id'] +'\n')
