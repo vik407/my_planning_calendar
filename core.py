@@ -2,6 +2,7 @@ import json
 import urllib
 from datetime import datetime
 
+today = datetime.today()
 with open('batch_planning_data.json') as json_file:
 	data = json.load(json_file)
 	cond = None
@@ -21,13 +22,16 @@ with open('batch_planning_data.json') as json_file:
 				print('UID:a4du9v2lvgueruc8mjoepkvjbc@google.com')
 				print('ID: ' +p['id'])
 				if 'project_url' in p:
-					print('DESCRIPTION: Project id ' + p['id'] +'- Name ' +p['text'] +'- Url ' +("https://intranet.hbtn.io" + p['project_url']))
+					print('DESCRIPTION: Project id ' + p['id'] +' Name ' +p['text'] +' Url ' +("https://intranet.hbtn.io" + p['project_url']))
 				else:
-					print('DESCRIPTION: Project id ' + p['id'] +'- Name ' +p['text'])
-				print('LAST-MODIFIED:20070207T065138Z')
-				print('LOCATION: https://intranet.hbtn.io')
+					print('DESCRIPTION: Project id ' + p['id'] +' Name ' +p['text'])
+				print('LAST-MODIFIED:' +datetime.strftime(today, "%Y%m%dT%H%M00Z"))
+				print('LOCATION: Cali CLO')
 				print('SEQUENCE:0')
 				print('STATUS:CONFIRMED')
 				print('SUMMARY: ' +p['text'])
 				print('CATEGORIES:http://schemas.google.com/g/2005#event')
 				print('END:VEVENT')
+		print('END:VCALENDAR')
+	else:
+		print('ERROR:THE FILE IS EMPTY? - ARE YOU LOGGED IN?')
