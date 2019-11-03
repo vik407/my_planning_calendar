@@ -9,7 +9,7 @@ with open('batch_planning_data.json') as json_file:
 	data = json.load(json_file)
 	cond = None
 	if(data):
-		f = open("holberton.ical", "w+")
+		f = open("holberton-a.ical", "w+")
 		f.write('BEGIN:VCALENDAR\n')
 		f.write('PRODID:-//Google Inc//Google Calendar 70.9054//EN\n')
 		f.write('VERSION:2.0\n')

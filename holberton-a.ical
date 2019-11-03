@@ -1,0 +1,915 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Holberton
+X-WR-TIMEZONE:America/Bogota
+BEGIN:VTIMEZONE
+TZID:America/Atikokan
+X-LIC-LOCATION:America/Atikokan
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20190909T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca5912c-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-210
+DESCRIPTION: Project id project-210 Name 0x00. Vagrant
+Url https://intranet.hbtn.io/projects/210
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x00. Vagrant : project-210
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190909T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6711e-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-206
+DESCRIPTION: Project id project-206 Name 0x01. Emacs
+Url https://intranet.hbtn.io/projects/206
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x01. Emacs : project-206
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190909T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca67916-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-211
+DESCRIPTION: Project id project-211 Name 0x02. vi
+Url https://intranet.hbtn.io/projects/211
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x02. vi : project-211
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190909T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca68230-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-1
+DESCRIPTION: Project id project-1 Name 0x03. Git
+Url https://intranet.hbtn.io/projects/1
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x03. Git : project-1
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190918T000000Z
+DTEND:20190921T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca687c6-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-212
+DESCRIPTION: Project id project-212 Name 0x00. C - Hello, World
+Url https://intranet.hbtn.io/projects/212
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x00. C - Hello, World : project-212
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190919T000000Z
+DTEND:20190921T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca68d66-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-213
+DESCRIPTION: Project id project-213 Name 0x01. C - Variables, if, else, while
+Url https://intranet.hbtn.io/projects/213
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x01. C - Variables, if, else, while : project-213
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190923T000000Z
+DTEND:20190926T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca69284-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-214
+DESCRIPTION: Project id project-214 Name 0x02. C - Functions, nested loops
+Url https://intranet.hbtn.io/projects/214
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x02. C - Functions, nested loops : project-214
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190924T000000Z
+DTEND:20190926T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6973e-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-539
+DESCRIPTION: Project id project-539 Name 0x03. C - Debugging
+Url https://intranet.hbtn.io/projects/539
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x03. C - Debugging : project-539
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190926T000000Z
+DTEND:20190928T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca69e14-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-215
+DESCRIPTION: Project id project-215 Name 0x04. C - More functions, more nested loops
+Url https://intranet.hbtn.io/projects/215
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x04. C - More functions, more nested loops : project-215
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190930T000000Z
+DTEND:20191003T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6a364-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-216
+DESCRIPTION: Project id project-216 Name 0x05. C - Pointers, arrays and strings
+Url https://intranet.hbtn.io/projects/216
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x05. C - Pointers, arrays and strings : project-216
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191003T000000Z
+DTEND:20191005T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6b44e-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-217
+DESCRIPTION: Project id project-217 Name 0x06. C - More pointers, arrays and strings
+Url https://intranet.hbtn.io/projects/217
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x06. C - More pointers, arrays and strings : project-217
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191007T000000Z
+DTEND:20191009T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6bc8c-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-218
+DESCRIPTION: Project id project-218 Name 0x07. C - Even more pointers, arrays and strings
+Url https://intranet.hbtn.io/projects/218
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x07. C - Even more pointers, arrays and strings : project-218
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191009T000000Z
+DTEND:20191011T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6c3d0-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-219
+DESCRIPTION: Project id project-219 Name 0x08. C - Recursion
+Url https://intranet.hbtn.io/projects/219
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x08. C - Recursion : project-219
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191011T000000Z
+DTEND:20191015T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6cb50-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-220
+DESCRIPTION: Project id project-220 Name 0x09. C - Static libraries
+Url https://intranet.hbtn.io/projects/220
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x09. C - Static libraries : project-220
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191011T000000Z
+DTEND:20191015T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6d050-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-221
+DESCRIPTION: Project id project-221 Name 0x0A. C - argc, argv
+Url https://intranet.hbtn.io/projects/221
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x0A. C - argc, argv : project-221
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191015T000000Z
+DTEND:20191017T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6d744-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-222
+DESCRIPTION: Project id project-222 Name 0x0B. C - malloc, free
+Url https://intranet.hbtn.io/projects/222
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x0B. C - malloc, free : project-222
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191017T000000Z
+DTEND:20191019T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6dd48-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-223
+DESCRIPTION: Project id project-223 Name 0x0C. C - More malloc, free
+Url https://intranet.hbtn.io/projects/223
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x0C. C - More malloc, free : project-223
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191021T000000Z
+DTEND:20191023T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6e266-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-224
+DESCRIPTION: Project id project-224 Name 0x0D. C - Preprocessor
+Url https://intranet.hbtn.io/projects/224
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x0D. C - Preprocessor : project-224
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191021T000000Z
+DTEND:20191023T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6e748-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-225
+DESCRIPTION: Project id project-225 Name 0x0E. C - Structures, typedef
+Url https://intranet.hbtn.io/projects/225
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x0E. C - Structures, typedef : project-225
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191023T000000Z
+DTEND:20191025T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6ef90-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-226
+DESCRIPTION: Project id project-226 Name 0x0F. C - Function pointers
+Url https://intranet.hbtn.io/projects/226
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x0F. C - Function pointers : project-226
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191025T000000Z
+DTEND:20191031T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6f59e-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-227
+DESCRIPTION: Project id project-227 Name 0x10. C - Variadic functions
+Url https://intranet.hbtn.io/projects/227
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x10. C - Variadic functions : project-227
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191025T000000Z
+DTEND:20191031T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca6fbf2-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-228
+DESCRIPTION: Project id project-228 Name 0x11. C - printf
+Url https://intranet.hbtn.io/projects/228
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x11. C - printf : project-228
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191031T000000Z
+DTEND:20191102T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca70318-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-229
+DESCRIPTION: Project id project-229 Name 0x12. C - Singly linked lists
+Url https://intranet.hbtn.io/projects/229
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x12. C - Singly linked lists : project-229
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190916T000000Z
+DTEND:20200525T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca708b8-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-429
+DESCRIPTION: Project id project-429 Name Professional Relationships
+Url https://intranet.hbtn.io/projects/429
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Professional Relationships : project-429
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190916T000000Z
+DTEND:20191001T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca70e80-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-67
+DESCRIPTION: Project id project-67 Name 0x00. A tweet a day keeps the @julienbarbier42 away
+Url https://intranet.hbtn.io/projects/67
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x00. A tweet a day keeps the @julienbarbier42 away : project-67
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191001T000000Z
+DTEND:20191101T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca714b6-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-99
+DESCRIPTION: Project id project-99 Name 0x01. A tweet a day keeps the @julienbarbier42 away
+Url https://intranet.hbtn.io/projects/99
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x01. A tweet a day keeps the @julienbarbier42 away : project-99
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191101T000000Z
+DTEND:20191201T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca71d6c-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-130
+DESCRIPTION: Project id project-130 Name 0x02. A tweet a day keeps the @julienbarbier42 away
+Url https://intranet.hbtn.io/projects/130
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x02. A tweet a day keeps the @julienbarbier42 away : project-130
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190911T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7238e-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-205
+DESCRIPTION: Project id project-205 Name 0x00. Shell, basics
+Url https://intranet.hbtn.io/projects/205
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x00. Shell, basics : project-205
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190912T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7296a-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-207
+DESCRIPTION: Project id project-207 Name 0x01. Shell, permissions
+Url https://intranet.hbtn.io/projects/207
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x01. Shell, permissions : project-207
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190914T000000Z
+DTEND:20190919T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca72eec-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-208
+DESCRIPTION: Project id project-208 Name 0x02. Shell, I/O Redirections and filters
+Url https://intranet.hbtn.io/projects/208
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x02. Shell, I/O Redirections and filters : project-208
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190916T000000Z
+DTEND:20190918T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca733e2-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: project-209
+DESCRIPTION: Project id project-209 Name 0x03. Shell, init files, variables and expansions
+Url https://intranet.hbtn.io/projects/209
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x03. Shell, init files, variables and expansions : project-209
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190913T000000Z
+DTEND:20190914T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca738c4-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-42
+DESCRIPTION: Project id peer_learning_day-42 Name Shell - basics, permissions
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Shell - basics, permissions : peer_learning_day-42
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190917T000000Z
+DTEND:20190918T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca73ef0-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-43
+DESCRIPTION: Project id peer_learning_day-43 Name Shell - I/O Redirections and filters, init files, variables and expansions
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Shell - I/O Redirections and filters, init files, variables and expansions : peer_learning_day-43
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190920T000000Z
+DTEND:20190921T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7462a-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-44
+DESCRIPTION: Project id peer_learning_day-44 Name C - Hello, World & Variables, if, else, while
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Hello, World & Variables, if, else, while : peer_learning_day-44
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190925T000000Z
+DTEND:20190926T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca74b52-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-45
+DESCRIPTION: Project id peer_learning_day-45 Name C - functions, nested loops & Debugging
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - functions, nested loops & Debugging : peer_learning_day-45
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190927T000000Z
+DTEND:20190928T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca75002-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-46
+DESCRIPTION: Project id peer_learning_day-46 Name C - more functions, more nested loops
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - more functions, more nested loops : peer_learning_day-46
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191002T000000Z
+DTEND:20191003T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca75714-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-47
+DESCRIPTION: Project id peer_learning_day-47 Name C - pointers, arrays and strings
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - pointers, arrays and strings : peer_learning_day-47
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191004T000000Z
+DTEND:20191005T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca75c82-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-48
+DESCRIPTION: Project id peer_learning_day-48 Name C - more pointers, arrays and strings
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - more pointers, arrays and strings : peer_learning_day-48
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191008T000000Z
+DTEND:20191009T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca764d4-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-49
+DESCRIPTION: Project id peer_learning_day-49 Name C - even more pointers, arrays and strings
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - even more pointers, arrays and strings : peer_learning_day-49
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191010T000000Z
+DTEND:20191011T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca76c04-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-50
+DESCRIPTION: Project id peer_learning_day-50 Name C - Recursion
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Recursion : peer_learning_day-50
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191014T000000Z
+DTEND:20191015T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7737a-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-51
+DESCRIPTION: Project id peer_learning_day-51 Name C - Static libraries, argc, argv
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Static libraries, argc, argv : peer_learning_day-51
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191016T000000Z
+DTEND:20191017T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca778a2-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-52
+DESCRIPTION: Project id peer_learning_day-52 Name C - malloc, free
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - malloc, free : peer_learning_day-52
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191018T000000Z
+DTEND:20191019T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca77ed8-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-53
+DESCRIPTION: Project id peer_learning_day-53 Name C - more malloc, free
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - more malloc, free : peer_learning_day-53
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191022T000000Z
+DTEND:20191023T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca787ca-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-54
+DESCRIPTION: Project id peer_learning_day-54 Name C - Preprocessor, structures, typedef
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Preprocessor, structures, typedef : peer_learning_day-54
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191024T000000Z
+DTEND:20191025T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca78c5c-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-55
+DESCRIPTION: Project id peer_learning_day-55 Name C - Function pointers
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Function pointers : peer_learning_day-55
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191030T000000Z
+DTEND:20191031T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7929c-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-56
+DESCRIPTION: Project id peer_learning_day-56 Name C - Variadic functions, printf
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Variadic functions, printf : peer_learning_day-56
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191101T000000Z
+DTEND:20191102T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca79a08-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: peer_learning_day-57
+DESCRIPTION: Project id peer_learning_day-57 Name C - Singly linked lists
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C - Singly linked lists : peer_learning_day-57
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190909T000000Z
+DTEND:20190909T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca79fa8-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: evaluation-quiz-1
+DESCRIPTION: Project id evaluation-quiz-1 Name C quiz
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: C quiz : evaluation-quiz-1
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190909T000000Z
+DTEND:20190909T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7a584-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: evaluation-quiz-3
+DESCRIPTION: Project id evaluation-quiz-3 Name General Knowledge
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: General Knowledge : evaluation-quiz-3
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190916T000000Z
+DTEND:20190916T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7aba6-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: evaluation-quiz-8
+DESCRIPTION: Project id evaluation-quiz-8 Name Professionalism Quiz
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Professionalism Quiz : evaluation-quiz-8
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190919T000000Z
+DTEND:20190919T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7b010-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: evaluation-quiz-6
+DESCRIPTION: Project id evaluation-quiz-6 Name Student Survey - Colombia
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Student Survey - Colombia : evaluation-quiz-6
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191010T000000Z
+DTEND:20191010T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7b498-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: nps-quiz-1
+DESCRIPTION: Project id nps-quiz-1 Name How likely is it that you would recommend Holberton School?
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: How likely is it that you would recommend Holberton School? : nps-quiz-1
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190917T000000Z
+DTEND:20190917T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7baec-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: reefinery-2
+DESCRIPTION: Project id reefinery-2 Name 0x00 - Shell
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x00 - Shell : reefinery-2
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190923T000000Z
+DTEND:20190923T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7c26c-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: reefinery-3
+DESCRIPTION: Project id reefinery-3 Name 0x01 - Shell, C
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x01 - Shell, C : reefinery-3
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190930T000000Z
+DTEND:20190930T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7c82a-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: reefinery-4
+DESCRIPTION: Project id reefinery-4 Name 0x02 - Shell, C
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x02 - Shell, C : reefinery-4
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191014T000000Z
+DTEND:20191014T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7cc62-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: reefinery-5
+DESCRIPTION: Project id reefinery-5 Name 0x03 - Shell, C, Twitter
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: 0x03 - Shell, C, Twitter : reefinery-5
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191130T000000Z
+DTEND:20191130T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7d126-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: holiday-1
+DESCRIPTION: Project id holiday-1 Name Break #0
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Break #0 : holiday-1
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200314T000000Z
+DTEND:20200314T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7d5ae-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: holiday-2
+DESCRIPTION: Project id holiday-2 Name Break #1
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Break #1 : holiday-2
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191223T000000Z
+DTEND:20191223T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7da04-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: week-off-28
+DESCRIPTION: Project id week-off-28 Name Christmas - 2019
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Christmas - 2019 : week-off-28
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191230T000000Z
+DTEND:20191230T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7ddce-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: day-off-437
+DESCRIPTION: Project id day-off-437 Name New year - 2020
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: New year - 2020 : day-off-437
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191231T000000Z
+DTEND:20191231T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7e2d8-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: day-off-438
+DESCRIPTION: Project id day-off-438 Name New year - 2020
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: New year - 2020 : day-off-438
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200101T000000Z
+DTEND:20200101T235959Z
+DTSTAMP:20191103T114600Z
+UID:7ca7e71a-fe59-11e9-bbe7-408d5cc168a7@google.com
+ID: day-off-439
+DESCRIPTION: Project id day-off-439 Name New year - 2020
+LAST-MODIFIED:20191103T114600Z
+LOCATION: Cali CLO
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: New year - 2020 : day-off-439
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+END:VCALENDAR
