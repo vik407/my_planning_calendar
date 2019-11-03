@@ -16,15 +16,6 @@ with open('batch_planning_data.json') as json_file:
 		f.write('CALSCALE:GREGORIAN\n')
 		f.write('X-WR-CALNAME:Holberton\n')
 		f.write('X-WR-TIMEZONE:America/Bogota\n')
-		f.write('BEGIN:VTIMEZONE\n')
-		f.write('TZID:America/Atikokan\n')
-		f.write('X-LIC-LOCATION:America/Atikokan\n')
-		f.write('BEGIN:STANDARD\n')
-		f.write('TZOFFSETFROM:-0500\n')
-		f.write('TZOFFSETTO:-0500\n')
-		f.write('TZNAME:EST\n')
-		f.write('END:STANDARD\n')
-		f.write('END:VTIMEZONE\n')
 		for p in data['data']:
 			if 'start_date' in p:
 				theuid = uuid.uuid1()
