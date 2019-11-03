@@ -1,5 +1,6 @@
 import json
 import urllib
+import uuid
 from datetime import datetime
 
 today = datetime.today()
@@ -13,6 +14,7 @@ with open('batch_planning_data.json') as json_file:
 		f.write('CALSCALE:GREGORIAN\n')
 		for p in data['data']:
 			if 'start_date' in p:
+				theuid = uuid.uuid1()
 				datetime_s_str = datetime.strptime(p['start_date'], "%d-%m-%Y")
 				if 'end_date' in p:
 					datetime_e_str = datetime.strptime(p['end_date'], "%d-%m-%Y")
@@ -20,7 +22,8 @@ with open('batch_planning_data.json') as json_file:
 				f.write('DTSTART:' +datetime.strftime(datetime_s_str, "%Y%m%d") + "T000000Z\n")
 				if 'end_date' in p:
 					f.write('DTEND:' +datetime.strftime(datetime_e_str, "%Y%m%d") + "T235959Z\n")
-				f.write('UID:a4du9v2lvgueruc8mjoepkvjbc@google.com\n')
+				f.write('DTSTAMP:' +datetime.strftime(today, "%Y%m%dT%H%M00Z") +'\n')
+				f.write('UID:' +str(theuid) +'@google.com\n')
 				f.write('ID: ' +p['id'] +'\n')
 				if 'project_url' in p:
 					f.write('DESCRIPTION: Project id ' + p['id'] +' Name ' +p['text'] +' Url ' +("https://intranet.hbtn.io" + p['project_url']) +'\n')
