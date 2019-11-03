@@ -1,0 +1,674 @@
+{
+   "data":[
+	  {
+		 "id":"track-5",
+		 "text":"0-Day",
+		 "color":"red"
+	  },
+	  {
+		 "id":"block-30",
+		 "text":"0-Day",
+		 "parent":"track-5",
+		 "color":"green"
+	  },
+	  {
+		 "id":"project-210",
+		 "start_date":"09-09-2019",
+		 "end_date":"14-09-2019",
+		 "progress":0.4,
+		 "text":"0x00. Vagrant",
+		 "parent":"block-30",
+		 "project_url":"/projects/210",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-206",
+		 "start_date":"09-09-2019",
+		 "end_date":"14-09-2019",
+		 "progress":0.4,
+		 "text":"0x01. Emacs",
+		 "parent":"block-30",
+		 "project_url":"/projects/206",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-211",
+		 "start_date":"09-09-2019",
+		 "end_date":"14-09-2019",
+		 "progress":0.4,
+		 "text":"0x02. vi",
+		 "parent":"block-30",
+		 "project_url":"/projects/211",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-1",
+		 "start_date":"09-09-2019",
+		 "end_date":"14-09-2019",
+		 "progress":0.4,
+		 "text":"0x03. Git",
+		 "parent":"block-30",
+		 "project_url":"/projects/1",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"track-1",
+		 "text":"Low-level programming \u0026 Algorithm",
+		 "color":"red"
+	  },
+	  {
+		 "id":"block-8",
+		 "text":"Hatching out",
+		 "parent":"track-1",
+		 "color":"green"
+	  },
+	  {
+		 "id":"project-212",
+		 "start_date":"18-09-2019",
+		 "end_date":"21-09-2019",
+		 "progress":0.3333333333333333,
+		 "text":"0x00. C - Hello, World",
+		 "parent":"block-8",
+		 "project_url":"/projects/212",
+		 "project_progress":150
+	  },
+	  {
+		 "id":"project-213",
+		 "start_date":"19-09-2019",
+		 "end_date":"21-09-2019",
+		 "progress":0.5,
+		 "text":"0x01. C - Variables, if, else, while",
+		 "parent":"block-8",
+		 "project_url":"/projects/213",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-214",
+		 "start_date":"23-09-2019",
+		 "end_date":"26-09-2019",
+		 "progress":0.6666666666666666,
+		 "text":"0x02. C - Functions, nested loops",
+		 "parent":"block-8",
+		 "project_url":"/projects/214",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-539",
+		 "start_date":"24-09-2019",
+		 "end_date":"26-09-2019",
+		 "progress":0.5,
+		 "text":"0x03. C - Debugging",
+		 "parent":"block-8",
+		 "project_url":"/projects/539",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-215",
+		 "start_date":"26-09-2019",
+		 "end_date":"28-09-2019",
+		 "progress":0.5,
+		 "text":"0x04. C - More functions, more nested loops",
+		 "parent":"block-8",
+		 "project_url":"/projects/215",
+		 "project_progress":150
+	  },
+	  {
+		 "id":"project-216",
+		 "start_date":"30-09-2019",
+		 "end_date":"03-10-2019",
+		 "progress":0.6666666666666666,
+		 "text":"0x05. C - Pointers, arrays and strings",
+		 "parent":"block-8",
+		 "project_url":"/projects/216",
+		 "project_progress":150
+	  },
+	  {
+		 "id":"project-217",
+		 "start_date":"03-10-2019",
+		 "end_date":"05-10-2019",
+		 "progress":0.5,
+		 "text":"0x06. C - More pointers, arrays and strings",
+		 "parent":"block-8",
+		 "project_url":"/projects/217",
+		 "project_progress":125
+	  },
+	  {
+		 "id":"project-218",
+		 "start_date":"07-10-2019",
+		 "end_date":"09-10-2019",
+		 "progress":0.5,
+		 "text":"0x07. C - Even more pointers, arrays and strings",
+		 "parent":"block-8",
+		 "project_url":"/projects/218",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"project-219",
+		 "start_date":"09-10-2019",
+		 "end_date":"11-10-2019",
+		 "progress":0.5,
+		 "text":"0x08. C - Recursion",
+		 "parent":"block-8",
+		 "project_url":"/projects/219",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-220",
+		 "start_date":"11-10-2019",
+		 "end_date":"15-10-2019",
+		 "progress":0.75,
+		 "text":"0x09. C - Static libraries",
+		 "parent":"block-8",
+		 "project_url":"/projects/220",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-221",
+		 "start_date":"11-10-2019",
+		 "end_date":"15-10-2019",
+		 "progress":0.75,
+		 "text":"0x0A. C - argc, argv",
+		 "parent":"block-8",
+		 "project_url":"/projects/221",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-222",
+		 "start_date":"15-10-2019",
+		 "end_date":"17-10-2019",
+		 "progress":0.5,
+		 "text":"0x0B. C - malloc, free",
+		 "parent":"block-8",
+		 "project_url":"/projects/222",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-223",
+		 "start_date":"17-10-2019",
+		 "end_date":"19-10-2019",
+		 "progress":0.5,
+		 "text":"0x0C. C - More malloc, free",
+		 "parent":"block-8",
+		 "project_url":"/projects/223",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-224",
+		 "start_date":"21-10-2019",
+		 "end_date":"23-10-2019",
+		 "progress":0.5,
+		 "text":"0x0D. C - Preprocessor",
+		 "parent":"block-8",
+		 "project_url":"/projects/224",
+		 "project_progress":150
+	  },
+	  {
+		 "id":"project-225",
+		 "start_date":"21-10-2019",
+		 "end_date":"23-10-2019",
+		 "progress":0.5,
+		 "text":"0x0E. C - Structures, typedef",
+		 "parent":"block-8",
+		 "project_url":"/projects/225",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-226",
+		 "start_date":"23-10-2019",
+		 "end_date":"25-10-2019",
+		 "progress":0.5,
+		 "text":"0x0F. C - Function pointers",
+		 "parent":"block-8",
+		 "project_url":"/projects/226",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-227",
+		 "start_date":"25-10-2019",
+		 "end_date":"31-10-2019",
+		 "progress":0.5,
+		 "text":"0x10. C - Variadic functions",
+		 "parent":"block-8",
+		 "project_url":"/projects/227",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"project-228",
+		 "start_date":"25-10-2019",
+		 "end_date":"31-10-2019",
+		 "progress":0.8333333333333334,
+		 "text":"0x11. C - printf",
+		 "parent":"block-8",
+		 "project_url":"/projects/228",
+		 "project_progress":100
+	  },
+	  {
+		 "id":"block-28",
+		 "text":"Data structures and Algorithms",
+		 "parent":"track-1",
+		 "color":"green"
+	  },
+	  {
+		 "id":"project-229",
+		 "start_date":"31-10-2019",
+		 "end_date":"02-11-2019",
+		 "progress":0.5,
+		 "text":"0x12. C - Singly linked lists",
+		 "parent":"block-28",
+		 "project_url":"/projects/229",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"track-4",
+		 "text":"Social Media",
+		 "color":"red"
+	  },
+	  {
+		 "id":"project-429",
+		 "start_date":"16-09-2019",
+		 "end_date":"25-05-2020",
+		 "progress":1.0,
+		 "text":"Professional Relationships",
+		 "parent":"track-4",
+		 "project_url":"/projects/429",
+		 "project_progress":0
+	  },
+	  {
+		 "id":"block-9",
+		 "text":"Social media",
+		 "parent":"track-4",
+		 "color":"green"
+	  },
+	  {
+		 "id":"project-67",
+		 "start_date":"16-09-2019",
+		 "end_date":"01-10-2019",
+		 "progress":1.0,
+		 "text":"0x00. A tweet a day keeps the @julienbarbier42 away",
+		 "parent":"block-9",
+		 "project_url":"/projects/67",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"project-99",
+		 "start_date":"01-10-2019",
+		 "end_date":"01-11-2019",
+		 "progress":1.0,
+		 "text":"0x01. A tweet a day keeps the @julienbarbier42 away",
+		 "parent":"block-9",
+		 "project_url":"/projects/99",
+		 "project_progress":0
+	  },
+	  {
+		 "id":"project-130",
+		 "start_date":"01-11-2019",
+		 "end_date":"01-12-2019",
+		 "progress":1.0,
+		 "text":"0x02. A tweet a day keeps the @julienbarbier42 away",
+		 "parent":"block-9",
+		 "project_url":"/projects/130",
+		 "project_progress":0
+	  },
+	  {
+		 "id":"track-3",
+		 "text":"System engineering \u0026 DevOps",
+		 "color":"red"
+	  },
+	  {
+		 "id":"block-7",
+		 "text":"Bash",
+		 "parent":"track-3",
+		 "color":"green"
+	  },
+	  {
+		 "id":"project-205",
+		 "start_date":"11-09-2019",
+		 "end_date":"14-09-2019",
+		 "progress":0.3333333333333333,
+		 "text":"0x00. Shell, basics",
+		 "parent":"block-7",
+		 "project_url":"/projects/205",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"project-207",
+		 "start_date":"12-09-2019",
+		 "end_date":"14-09-2019",
+		 "progress":0.5,
+		 "text":"0x01. Shell, permissions",
+		 "parent":"block-7",
+		 "project_url":"/projects/207",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"project-208",
+		 "start_date":"14-09-2019",
+		 "end_date":"19-09-2019",
+		 "progress":0.4,
+		 "text":"0x02. Shell, I/O Redirections and filters",
+		 "parent":"block-7",
+		 "project_url":"/projects/208",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"project-209",
+		 "start_date":"16-09-2019",
+		 "end_date":"18-09-2019",
+		 "progress":0.5,
+		 "text":"0x03. Shell, init files, variables and expansions",
+		 "parent":"block-7",
+		 "project_url":"/projects/209",
+		 "project_progress":200
+	  },
+	  {
+		 "id":"peer_learning_day-42",
+		 "start_date":"13-09-2019",
+		 "end_date":"14-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"Shell - basics, permissions",
+		 "parent":"project-207",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-43",
+		 "start_date":"17-09-2019",
+		 "end_date":"18-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"Shell - I/O Redirections and filters, init files, variables and expansions",
+		 "parent":"project-209",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-44",
+		 "start_date":"20-09-2019",
+		 "end_date":"21-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Hello, World \u0026 Variables, if, else, while",
+		 "parent":"project-213",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-45",
+		 "start_date":"25-09-2019",
+		 "end_date":"26-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - functions, nested loops \u0026 Debugging",
+		 "parent":"project-539",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-46",
+		 "start_date":"27-09-2019",
+		 "end_date":"28-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - more functions, more nested loops",
+		 "parent":"project-215",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-47",
+		 "start_date":"02-10-2019",
+		 "end_date":"03-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - pointers, arrays and strings",
+		 "parent":"project-216",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-48",
+		 "start_date":"04-10-2019",
+		 "end_date":"05-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - more pointers, arrays and strings",
+		 "parent":"project-217",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-49",
+		 "start_date":"08-10-2019",
+		 "end_date":"09-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - even more pointers, arrays and strings",
+		 "parent":"project-218",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-50",
+		 "start_date":"10-10-2019",
+		 "end_date":"11-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Recursion",
+		 "parent":"project-219",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-51",
+		 "start_date":"14-10-2019",
+		 "end_date":"15-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Static libraries, argc, argv",
+		 "parent":"project-221",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-52",
+		 "start_date":"16-10-2019",
+		 "end_date":"17-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - malloc, free",
+		 "parent":"project-222",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-53",
+		 "start_date":"18-10-2019",
+		 "end_date":"19-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - more malloc, free",
+		 "parent":"project-223",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-54",
+		 "start_date":"22-10-2019",
+		 "end_date":"23-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Preprocessor, structures, typedef",
+		 "parent":"project-225",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-55",
+		 "start_date":"24-10-2019",
+		 "end_date":"25-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Function pointers",
+		 "parent":"project-226",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-56",
+		 "start_date":"30-10-2019",
+		 "end_date":"31-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Variadic functions, printf",
+		 "parent":"project-228",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"peer_learning_day-57",
+		 "start_date":"01-11-2019",
+		 "end_date":"02-11-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C - Singly linked lists",
+		 "parent":"project-229",
+		 "color":"purple"
+	  },
+	  {
+		 "id":"evaluation-quiz-1",
+		 "start_date":"09-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"C quiz",
+		 "parent":"evaluation-quizzes",
+		 "color":"#3ffabf"
+	  },
+	  {
+		 "id":"evaluation-quiz-3",
+		 "start_date":"09-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"General Knowledge",
+		 "parent":"evaluation-quizzes",
+		 "color":"#3ffabf"
+	  },
+	  {
+		 "id":"evaluation-quiz-8",
+		 "start_date":"16-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"Professionalism Quiz",
+		 "parent":"evaluation-quizzes",
+		 "color":"#3ffabf"
+	  },
+	  {
+		 "id":"evaluation-quiz-6",
+		 "start_date":"19-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"Student Survey - Colombia",
+		 "parent":"evaluation-quizzes",
+		 "color":"#3ffabf"
+	  },
+	  {
+		 "id":"nps-quiz-1",
+		 "start_date":"10-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"How likely is it that you would recommend Holberton School?",
+		 "parent":"nps-quizzes",
+		 "color":"#3ffabf"
+	  },
+	  {
+		 "id":"reefinery-2",
+		 "start_date":"17-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"0x00 - Shell",
+		 "parent":"reefineries",
+		 "color":"#FFB7C5"
+	  },
+	  {
+		 "id":"reefinery-3",
+		 "start_date":"23-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"0x01 - Shell, C",
+		 "parent":"reefineries",
+		 "color":"#FFB7C5"
+	  },
+	  {
+		 "id":"reefinery-4",
+		 "start_date":"30-09-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"0x02 - Shell, C",
+		 "parent":"reefineries",
+		 "color":"#FFB7C5"
+	  },
+	  {
+		 "id":"reefinery-5",
+		 "start_date":"14-10-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"0x03 - Shell, C, Twitter",
+		 "parent":"reefineries",
+		 "color":"#FFB7C5"
+	  },
+	  {
+		 "id":"holiday-1",
+		 "start_date":"30-11-2019",
+		 "duration":9,
+		 "progress":1.0,
+		 "text":"Break #0",
+		 "color":"#f9c34e"
+	  },
+	  {
+		 "id":"holiday-2",
+		 "start_date":"14-03-2020",
+		 "duration":9,
+		 "progress":1.0,
+		 "text":"Break #1",
+		 "color":"#f9c34e"
+	  },
+	  {
+		 "id":"week-off-28",
+		 "start_date":"23-12-2019",
+		 "duration":7,
+		 "progress":1.0,
+		 "text":"Christmas - 2019",
+		 "color":"#f9c34e"
+	  },
+	  {
+		 "id":"day-off-437",
+		 "start_date":"30-12-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"New year - 2020",
+		 "color":"#f9c34e"
+	  },
+	  {
+		 "id":"day-off-438",
+		 "start_date":"31-12-2019",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"New year - 2020",
+		 "color":"#f9c34e"
+	  },
+	  {
+		 "id":"day-off-439",
+		 "start_date":"01-01-2020",
+		 "duration":1,
+		 "progress":1.0,
+		 "text":"New year - 2020",
+		 "color":"#f9c34e"
+	  },
+	  {
+		 "id":"evaluation-quizzes",
+		 "text":"Evaluation quizzes",
+		 "color":"#00cd8c",
+		 "parent":null
+	  },
+	  {
+		 "id":"nps-quizzes",
+		 "text":"NPS quizzes",
+		 "color":"#00cd8c",
+		 "parent":null
+	  },
+	  {
+		 "id":"reefineries",
+		 "text":"Mock interviews",
+		 "color":"#C97585",
+		 "parent":null
+	  }
+   ],
+   "links":[
+
+   ]
+}
